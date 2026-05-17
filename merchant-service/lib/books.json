@@ -1,0 +1,20 @@
+[
+  {
+    "id": "BOOK-001",
+    "type": "Fiction",
+    "author": "Ursula K. Le Guin",
+    "title": "The Left Hand of Darkness",
+    "price": 16,
+    "currency": "USD",
+    "description": "Groundbreaking sci-fi exploring gender and society on a frozen planet.",
+    "category": "Science Fiction",
+    "stock": 25,
+    "selectors": {
+      "genre": ["Science Fiction", "Literary Fiction"],
+      "themes": ["Gender", "Politics", "Anthropology"],
+      "mood": ["Thoughtful", "Immersive", "Philosophical"],
+      "length": "Medium",
+      "difficulty": "Moderate"
+    }
+  }
+]
